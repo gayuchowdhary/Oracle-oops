@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f6ce5cd1-01a3-46f6-9a2c-1ab407f334b2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oracle OOps.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bl/Abstraction/Abstraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bl/Abstraction/Audi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bl/Abstraction/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bl/Encapsulation/Area.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bl/Encapsulation/Encaptulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bl/Inheritence/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bl/Inheritence/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bl/Inheritence/Inheritence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bl/Inheritence/Mamaal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bl/methodoverloaading/Add.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bl/methodoverloaading/OverloadingTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2CtNQcQR5fB2rDLKs4uEcXkGCEV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.bl.Inheritence" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Boy">
+    <configuration name="Boy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bl.methodoverriding.Boy" />
+      <module name="Oracle OOps" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bl.methodoverriding.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Encaptulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Encapsulation.Encaptulation" />
+      <module name="Oracle OOps" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Encapsulation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Inheritence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bl.Inheritence.Inheritence" />
+      <module name="Oracle OOps" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bl.Inheritence.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Encapsulation.Main" />
+      <module name="Oracle OOps" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Encapsulation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OverloadingTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bl.methodoverloaading.OverloadingTest" />
+      <module name="Oracle OOps" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bl.methodoverloaading.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Boy" />
+        <item itemvalue="Application.Inheritence" />
+        <item itemvalue="Application.OverloadingTest" />
+        <item itemvalue="Application.Encaptulation" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6ce5cd1-01a3-46f6-9a2c-1ab407f334b2" name="Changes" comment="" />
+      <created>1659617908309</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659617908309</updated>
+    </task>
+    <servers />
+  </component>
+</project>
